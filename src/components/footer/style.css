@@ -1,0 +1,20 @@
+
+.container_8{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100vw;
+    background:linear-gradient(#098883,#06203A);
+    padding: 30px;
+    margin-top: 50px;
+}
+.container_9{
+    
+}
+.container_10{
+    color: white;
+    cursor: pointer;
+}
+.container_10:hover{
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}

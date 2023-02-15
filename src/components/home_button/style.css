@@ -1,0 +1,13 @@
+
+.searchresult_2{
+    width: 100vw;
+    justify-content: right;
+}
+.searchresult_3{
+    border: 1px solid gray;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 5px;
+    margin: 2%;
+
+}

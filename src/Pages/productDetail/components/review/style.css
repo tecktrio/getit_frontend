@@ -1,0 +1,14 @@
+.review_1{
+    margin: 20px;
+    margin-top: 0px;
+    font-size: 12px;
+
+}
+.image{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.one_review{
+    display: flex;
+}

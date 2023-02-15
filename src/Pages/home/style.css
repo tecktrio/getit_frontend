@@ -1,0 +1,91 @@
+.home_1{
+    height: 100vh;
+
+    background-color: rgb(59, 70, 92);
+
+}
+.home_2{
+    width: 100vw;
+    height: 8%;
+    padding: 10px 50px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.search{
+    background-color: white;
+    padding:10pxrgb(59, 37, 37);
+    border-radius: 20px;
+}
+.body{
+    display: flex;
+    height: 100vh;
+}
+.options{
+    width: 20%;
+    background-color: rgb(235, 228, 228);
+    height: 100vh;
+    padding: 10px;
+    border: 1px solid black;
+}
+.courses{
+    width: 80%;
+    background-color: rgb(233, 233, 236);
+    padding: 10px;
+    border: 1px solid black;
+}
+.content{
+    background-color: rgb(243, 238, 238);
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: left;
+    box-shadow:  5px 5px 8px 5px #888888;
+    
+
+}
+.content_2{
+    color: rgb(0, 0, 0);
+}
+.image_2{
+    width:200px;
+    height: 200px;
+    margin-right: 100px;
+}
+.continue{
+    border-radius: 5px;
+    padding: 5px 60px;
+    margin: 10px;
+    background-color: rgb(255, 217, 0);
+    border: none;
+    font-weight: bold;
+    box-shadow:  1px 1px 10px 1px #888888;
+
+}
+.progress{
+    display: flex;
+    margin: 50px;
+    height: auto;
+    color:rgb(0, 0, 0);
+    font-size: 15px;
+    font-weight: bold;
+}
+.left{
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.right{
+    width: 50%;
+    background-color: rgb(253, 253, 255);
+    padding: 20px;
+    border-radius: 10px;
+}
+.image_3{
+    width: 500px;
+}
+.image_4{
+    width: 500px;
+}

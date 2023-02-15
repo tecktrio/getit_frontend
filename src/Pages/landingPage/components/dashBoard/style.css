@@ -1,0 +1,11 @@
+.dashboard_1{
+    background-color: transparent;
+    padding:10px;
+}
+.dashboard_2{
+background-color: rgba(0, 0, 0, .2);
+display: flex;
+padding:5px 15px;
+border-radius: 50px;
+cursor: pointer;
+}
